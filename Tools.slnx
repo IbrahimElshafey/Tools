@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="File2Png/File2Png.csproj" />
+  <Project Path="GitPngTool/GitPngTool.csproj" Id="87070e8c-b0d4-4117-8ddd-618059806ef5" />
 </Solution>
